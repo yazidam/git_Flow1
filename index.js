@@ -19,3 +19,5 @@ console.log("2111111111111111111111111111111");
 console.log("test log");
 console.log("conflictsssssss");
 console.log("conflictsssssss111111111111111111111111");
+
+console.log("test console log");
